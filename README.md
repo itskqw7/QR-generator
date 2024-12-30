@@ -1,7 +1,4 @@
-# Basic QR code generator
-
-This is a basic QR code generator for Firefox.
-
+# 🖱️ Access via right click menu!
 ### Features: 
 - 🛜 Offline
 - 🪶 Lightweight
