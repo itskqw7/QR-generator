@@ -4,6 +4,7 @@ This is a basic QR code generator for Firefox.
 
 ### Features: 
 - Offline
+- Lightweight
 - Quick
 - No data collection
 
