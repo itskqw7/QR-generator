@@ -1,4 +1,5 @@
 # 🖱️ Access via right click menu!
+![Video Preview](tutorial.gif)
 ### ✨Features: 
 - 🛜 Offline
 - 🪶 Lightweight
