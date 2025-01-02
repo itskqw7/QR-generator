@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>logo</title>
+	<defs>
+		<image  width="512" height="512" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAIxJREFUeJztzDENAAAMA6DVv+mJ6NUEBJArRSAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgWA7eMqeAgEiRD3HAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #0096ff } 
+	</style>
+	<use id="Background" style="opacity: 0" href="#img1" x="0" y="0"/>
+	<path id="Shape 1" class="s0" d="m142 471c-58.1 0-105-46.5-105-104 0-57.5 46.9-104 105-104 58.1 0 105 46.5 105 104 0 57.5-46.9 104-105 104z"/>
+	<path id="Shape 1 copy 4" class="s0" d="m142 248c-58.1 0-105-46.5-105-104 0-57.5 46.9-104 105-104 58.1 0 105 46.5 105 104 0 57.5-46.9 104-105 104z"/>
+	<path id="Shape 1 copy" class="s0" d="m370 471c-58.1 0-105-46.5-105-104 0-57.5 46.9-104 105-104 58.1 0 105 46.5 105 104 0 57.5-46.9 104-105 104z"/>
+	<path id="Shape 1 copy 5" class="s0" d="m370 248c-58.1 0-105-46.5-105-104 0-57.5 46.9-104 105-104 58.1 0 105 46.5 105 104 0 57.5-46.9 104-105 104z"/>
+</svg>

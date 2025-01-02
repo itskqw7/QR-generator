@@ -1,19 +1,19 @@
 {
   "manifest_version": 2,
   "name": "Basic QR code generator",
-  "version": "2024.1.1",
+  "version": "2025.1.0",
   "permissions": ["contextMenus", "activeTab", "clipboardRead"],
   "background": {
     "scripts": ["background.js"]
   },
   "browser_action": {
     "default_popup": "popup.html",
-    "default_icon": "icons/icon.png"
+    "default_icon": "logo.svg"
   },
   "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png",
-    "512": "icons/icon512.png"
+    "16": "logo.svg",
+    "48": "logo.svg",
+    "128": "logo.svg",
+    "512": "logo.svg"
   }
 }
